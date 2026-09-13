@@ -1,0 +1,11 @@
+TCGA-LUAD mutation-based patient stratification
+Method: functional mutation filter (missense/frameshift/stop/splice-site variants,
+detected by >=2 independent variant callers)
+
+EGFR-mutant samples: 73
+KRAS-mutant samples: 153
+Wild-type samples: 319
+Total tumor samples: 545
+
+Cross-check against cBioPortal (TCGA-LUAD PanCancer Atlas, driver mutations only):
+EGFR driver: 69 | KRAS driver: 171

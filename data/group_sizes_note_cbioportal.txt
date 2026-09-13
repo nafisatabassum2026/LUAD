@@ -1,0 +1,12 @@
+TCGA-LUAD (PanCancer Atlas) - Mutation counts from cBioPortal
+Checked on: 23 August,2026
+
+EGFR:
+  Total mutations: 86
+  Driver: 69
+  VUS: 17
+
+KRAS:
+  Total mutations: 173
+  Driver: 171
+  VUS: 2
