@@ -1,11 +1,11 @@
-TCGA-LUAD mutation-based patient stratification
-Method: functional mutation filter (missense/frameshift/stop/splice-site variants,
-detected by >=2 independent variant callers)
+Clinical characterization of mutation-based groups (sanity check)
 
-EGFR-mutant samples: 73
-KRAS-mutant samples: 153
-Wild-type samples: 319
-Total tumor samples: 545
+Sex distribution (% female):
+  EGFR: 68% | KRAS: 53% | WT: 51%
 
-Cross-check against cBioPortal (TCGA-LUAD PanCancer Atlas, driver mutations only):
-EGFR driver: 69 | KRAS driver: 171
+Never-smoker proxy (NA in pack_years_smoked.exposures):
+  EGFR: 63% | KRAS: 25.5% | WT: 30.4%
+
+Both findings are consistent with established LUAD literature
+(EGFR-mutant tumors more common in female, never-smoker patients),
+supporting the validity of the mutation-based stratification.
