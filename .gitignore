@@ -6,3 +6,5 @@
 .RDataTmp
 .DS_Store
 data/raw/
+data/processed/*.RData
+*TOM*
