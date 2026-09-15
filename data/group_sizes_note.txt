@@ -9,3 +9,10 @@ Never-smoker proxy (NA in pack_years_smoked.exposures):
 Both findings are consistent with established LUAD literature
 (EGFR-mutant tumors more common in female, never-smoker patients),
 supporting the validity of the mutation-based stratification.
+
+
+
+
+
+
+
